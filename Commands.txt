@@ -1,0 +1,3 @@
+dotnet ef migrations add InitialCreate --project Daily.Planner.with.God.Persistance --startup-project Daily.Planner.with.God.Api
+
+dotnet ef database update --project Daily.Planner.with.God.Persistance --startup-project Daily.Planner.with.God.Api

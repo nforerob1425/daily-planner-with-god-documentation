@@ -1,0 +1,36 @@
+﻿# Archivos y carpetas de Visual Studio
+.vs/
+.vscode/
+.idea/
+# El directorio de usuario (configuración local de Visual Studio)
+userconfig/
+# Archivos de compilación de Visual Studio
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]evelopment/
+[Dd]ebugWindows/
+[Dd]ebugAnyCPU/
+bin/
+obj/
+# Archivos de configuración del sistema
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Archivos de paquetes NuGet
+.nuget/
+# Archivos de dependencias de Visual Studio
+packages/
+# Archivos de Visual Studio para contenedores de Windows
+*.vspscc
+# Archivos de Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+# Archivos generados por la compilación
+*.dbmdl
+*.bak
+*.backup
+*.log
